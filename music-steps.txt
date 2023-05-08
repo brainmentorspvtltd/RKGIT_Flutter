@@ -1,0 +1,31 @@
+https://dontpad.com/mycodeam
+
+https://github.com/brainmentorspvtltd/RKGIT_Flutter/blob/main/music-app-things.zip
+
+Splash Screen
+Challenges
+Step 1.   2 Images Show one by One (boolean flag variable)
+
+Step-2 To show images 
+assets/images (Folder) parallel to lib
+
+pubspec.yaml
+assets:
+     - assets/images/
+
+
+assets path maintain in assets_constants.dart under the settings folder.
+
+
+Step-3 Loading Indicator
+Pubspec.yaml
+Dependencies
+   loading_indicator: ^3.1.0
+
+
+Step-4 Loading Indicator is a common widget and it must be part of shared folder
+
+
+
+
+
